@@ -1,3 +1,6 @@
 [submodule "Core"]
 	path = Core
 	url = https://github.com/a14s-penguin/core.git
+[submodule "extent"]
+	path = extent
+	url = https://github.com/a14s-penguin/more-extention.git
